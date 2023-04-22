@@ -4,5 +4,5 @@ Instructions: Implement code which has the ability to produce a comma delimited 
 # IntelliJ Java Project
 To run this project you just need to download the source code and run it with intellJ or any Java IDE,
 
-Prerequisite
+Prerequisite:
 JDK 17 must be installed.
